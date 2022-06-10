@@ -1,5 +1,5 @@
 # golang-api-boilerplate
->golang-api-boilerplate is template for built web api with golang programming language to aim best performance and speed of development.
+>golang-api-boilerplate is template for built web api with golang programming language to aim best performance and speed of development. Feel free to use this boilerplate for your project
 ## used package
     - gofiber
     - gorm
@@ -7,6 +7,7 @@
     - golang-jwt
     - swaggo
     - ozzo-validation
+    - gomail
     - godotenv
 ## How To Run
 
