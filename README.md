@@ -1,6 +1,13 @@
-# Toqcer.id
-## golang-api-boilerplate
->golang-api-boilerplate is api for store management system web app by ToqCer.id, this api built with golang programming language to aim best performance and speed of development.
+# golang-api-boilerplate
+>golang-api-boilerplate is template for built web api with golang programming language to aim best performance and speed of development.
+## used package
+    - gofiber
+    - gorm
+    - gormigrate
+    - golang-jwt
+    - swaggo
+    - ozzo-validation
+    - godotenv
 ## How To Run
 
 ### copy .env.example to .env and edit your .env config
